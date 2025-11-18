@@ -1,0 +1,136 @@
+<pre>--- Summary ---
+Tests passed: 1 out of 11
+
+--- Details ---
+Test #0: failed 
+Test case description: World 1
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #1: failed 
+Test case description: World 2
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #2: failed 
+Test case description: World 4
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #3: failed 
+Test case description: World 6
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #4: failed 
+Test case description: World 7
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #5: failed 
+Test case description: World 8
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #6: failed 
+Test case description: World 9
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #7: failed 
+Test case description: World 10
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 226, in timeoutwrapper_nodyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #8: failed 
+Test case description: World 1, dyna=200
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 260, in timeoutwrapper_dyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #9: failed 
+Test case description: World 2, dyna=200
+Traceback:
+  File "/home/skyler/Documents/ML4T_2025Spring/grading/grading.py", line 152, in proc_wrapper
+    rv["output"] = func(*pos_args, **keyword_args)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 260, in timeoutwrapper_dyna
+    return qltest(
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/grade_robot_qlearning.py", line 465, in qltest
+    action = learner.query(state, r)
+  File "/home/skyler/Documents/ML4T_2025Spring/qlearning_robot/QLearner.py", line 123, in query
+    curr = self.q[self.s, self.a]
+IndexError: index 4 is out of bounds for axis 1 with size 4
+
+Test #10: passed 
+</pre>
