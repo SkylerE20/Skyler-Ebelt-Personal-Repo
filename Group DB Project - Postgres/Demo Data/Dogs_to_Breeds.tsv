@@ -1,0 +1,330 @@
+dog_id	breed_name
+192	Affenpinscher
+23	Afghan Hound
+116	Airedale Terrier
+70	Akbash Dog
+144	Akbash Dog
+164	Akbash Dog
+54	Akita
+68	Alaskan Husky
+115	Alaskan Malamute
+139	American Bulldog
+195	American Bulldog
+76	American Foxhound
+23	American Pit Bull Terrier
+107	American Water Spaniel
+124	Aussiedoodle
+137	Australian Cattle Dog
+113	Australian Kelpie
+48	Australian Shepherd
+52	Australian Shepherd
+37	Australian Terrier
+44	Australian Terrier
+138	Australian Terrier
+30	Azawakh
+87	Azawakh
+162	Azawakh
+103	Basenji
+203	Basenji
+26	Basset Bleu de Gascogne
+43	Basset Bleu de Gascogne
+106	Basset Hound
+2	Bearded Collie
+130	Beauceron
+91	Bedlington Terrier
+92	Bedlington Terrier
+90	Belgian Laekenois
+1	Belgian Malinois
+18	Belgian Malinois
+108	Belgian Sheepdog
+180	Belgian Sheepdog
+194	Belgian Sheepdog
+81	Belgian Tervuren
+152	Belgian Tervuren
+12	Berger Picard
+66	Berger Picard
+169	Berger Picard
+34	Bernese Mountain Dog
+74	Bernese Mountain Dog
+146	Bernese Mountain Dog
+43	Bichon Frise
+169	Bichon Frise
+203	Black and Tan Coonhound
+1	Black Russian Terrier
+55	Black Russian Terrier
+142	Bloodhound
+9	Blue Picardy Spaniel
+80	Bluetick Coonhound
+123	Bluetick Coonhound
+4	Boerboel
+204	Bolognese
+16	Border Terrier
+92	Border Terrier
+159	Borzoi
+98	Boston Terrier
+163	Boston Terrier
+86	Bouvier des Flandres
+201	Boxer
+57	Boykin Spaniel
+82	Boykin Spaniel
+2	Brussels Griffon
+122	Brussels Griffon
+140	Brussels Griffon
+179	Brussels Griffon
+132	Bull Terrier
+175	Bull Terrier
+89	Bullmastiff
+124	Cairn Terrier
+7	Canaan Dog
+87	Canaan Dog
+50	Cane Corso
+62	Cane Corso
+149	Cane Corso
+157	Cane Corso
+9	Cardigan Welsh Corgi
+83	Cardigan Welsh Corgi
+145	Cardigan Welsh Corgi
+10	Catahoula Leopard Dog
+22	Catahoula Leopard Dog
+17	Caucasian Ovcharka
+32	Cavalier King Charles Spaniel
+105	Cavalier King Charles Spaniel
+119	Cavalier King Charles Spaniel
+153	Cavalier King Charles Spaniel
+172	Cavalier King Charles Spaniel
+144	Cavapom
+151	Cavapom
+172	Cavapom
+110	Cavapoo
+141	Cesky Terrier
+73	Chesapeake Bay Retriever
+65	Chihuahua
+102	Chihuahua
+121	Chihuahua
+154	Chihuahua
+133	Chinese Shar-Pei
+180	Chinese Shar-Pei
+32	Chinook
+202	Chow Chow
+85	Chug
+110	Chug
+31	Cirneco dell'Etna
+150	Cirneco dell'Etna
+191	Cirneco dell'Etna
+67	Clumber Spaniel
+137	Clumber Spaniel
+125	Cockapoo
+148	Cockapoo
+150	Cockapoo
+51	Cocker Spaniel
+128	Cocker Spaniel
+156	Cocker Spaniel
+15	Collie
+20	Collie
+62	Collie
+13	Curly-Coated Retriever
+194	Curly-Coated Retriever
+42	Dachshund
+131	Dalmatian
+38	Dogue de Bordeaux
+21	English Cocker Spaniel
+73	English Cocker Spaniel
+19	English Foxhound
+79	English Foxhound
+155	English Setter
+198	English Setter
+81	English Springer Spaniel
+86	English Springer Spaniel
+167	English Springer Spaniel
+177	English Springer Spaniel
+183	English Springer Spaniel
+135	English Toy Spaniel
+8	Eurasier
+39	Eurasier
+152	Field Spaniel
+39	Finnish Lapphund
+149	Finnish Lapphund
+150	Finnish Lapphund
+199	Finnish Spitz
+50	Fox Terrier
+67	Fox Terrier
+112	Fox Terrier
+146	French Bulldog
+46	German Pinscher
+101	German Shepherd Dog
+103	German Shepherd Dog
+3	German Shorthaired Pointer
+64	German Shorthaired Pointer
+153	German Shorthaired Pointer
+134	German Wirehaired Pointer
+200	German Wirehaired Pointer
+172	Golden Retriever
+178	Golden Retriever
+197	Golden Retriever
+55	Gordon Setter
+61	Gordon Setter
+100	Gordon Setter
+53	Great Dane
+72	Great Dane
+174	Great Pyrenees
+22	Greater Swiss Mountain Dog
+101	Greater Swiss Mountain Dog
+196	Greater Swiss Mountain Dog
+93	Greyhound
+136	Greyhound
+6	Ibizan Hound
+187	Irish Red and White Setter
+29	Irish Setter
+179	Irish Setter
+32	Irish Water Spaniel
+44	Irish Water Spaniel
+70	Irish Water Spaniel
+131	Irish Water Spaniel
+182	Irish Water Spaniel
+204	Irish Water Spaniel
+205	Irish Wolfhound
+22	Italian Greyhound
+89	Japanese Chin
+99	Komondor
+125	Kooikerhondje
+147	Kooikerhondje
+125	Kromfohrlander
+13	Kuvasz
+20	Kuvasz
+202	Kuvasz
+35	Lagotto Romagnolo
+114	Lagotto Romagnolo
+121	Lagotto Romagnolo
+75	Lakeland Terrier
+176	Lakeland Terrier
+195	Lakeland Terrier
+88	Large Munsterlander
+148	Large Munsterlander
+117	Lhasa Apso
+203	Lhasa Apso
+75	Lhasapoo
+136	Lhasapoo
+174	Lhasapoo
+188	Lhasapoo
+168	Longdog
+2	Lowchen
+102	Lurcher
+56	Maltese
+73	Maltese
+9	Mastiff
+79	Miniature Bull Terrier
+164	Miniature Bull Terrier
+71	Miniature Pinscher
+173	Miniature Pinscher
+161	Miniature Schnauzer
+11	Mudi
+126	Neapolitan Mastiff
+202	Neapolitan Mastiff
+14	Newfoundland
+190	Norwegian Buhund
+127	Norwegian Elkhound
+94	Norwegian Lundehund
+158	Norwegian Lundehund
+110	Norwich Terrier
+21	Nova Scotia Duck Tolling Retriever
+141	Nova Scotia Duck Tolling Retriever
+202	Nova Scotia Duck Tolling Retriever
+4	Otterhound
+146	Otterhound
+205	Otterhound
+189	Pekeapoo
+155	Pekingese
+81	Pembroke Welsh Corgi
+96	Pembroke Welsh Corgi
+39	Perro de Presa Canario
+105	Perro de Presa Canario
+33	Peruvian Inca Orchid
+161	Peruvian Inca Orchid
+185	Peruvian Inca Orchid
+45	Pharaoh Hound
+165	Pharaoh Hound
+148	Plott
+77	Pointer
+115	Pointer
+173	Pomapoo
+184	Pomapoo
+58	Pomeranian
+113	Pomeranian
+100	Pomsky
+170	Pomsky
+187	Pomsky
+71	Portuguese Podengo
+118	Portuguese Podengo
+6	Portuguese Water Dog
+119	Pug
+99	Puggle
+46	Pyrenean Shepherd
+9	Rat Terrier
+11	Redbone Coonhound
+47	Redbone Coonhound
+41	Rhodesian Ridgeback
+95	Rottweiler
+60	Russian Toy
+160	Russian Toy
+96	Saint Bernard
+181	Saint Bernard
+104	Saluki
+129	Saluki
+8	Samoyed
+166	Samoyed
+192	Schapendoes
+24	Schipperke
+74	Schipperke
+143	Schipperke
+97	Schnoodle
+154	Scottish Terrier
+129	Sealyham Terrier
+162	Sealyham Terrier
+37	Shetland Sheepdog
+40	Shetland Sheepdog
+69	Shetland Sheepdog
+164	Shetland Sheepdog
+34	Shiba Inu
+109	Shiba Inu
+27	Shih Tzu
+134	Shihpoo
+86	Siberian Husky
+78	Silky Terrier
+25	Skye Terrier
+120	Skye Terrier
+171	Sloughi
+5	Spanish Water Dog
+16	Spinone Italiano
+122	Spinone Italiano
+157	Spinone Italiano
+169	Spinone Italiano
+19	Sprollie
+59	Staffordshire Bull Terrier
+62	Staffordshire Bull Terrier
+63	Standard Schnauzer
+93	Sussex Spaniel
+109	Thai Ridgeback
+101	Tibetan Mastiff
+26	Tibetan Spaniel
+49	Tibetan Spaniel
+51	Tosa Ken
+81	Tosa Ken
+52	Toy Fox Terrier
+27	Toy Poodle
+36	Toy Poodle
+100	Toy Poodle
+111	Toy Poodle
+118	Toy Poodle
+170	Toy Poodle
+193	Weimaraner
+28	Welsh Springer Spaniel
+123	Welsh Terrier
+105	Whippet
+30	Wirehaired Vizsla
+19	Xoloitzcuintli
+61	Xoloitzcuintli
+84	Xoloitzcuintli
+104	Xoloitzcuintli
+186	Xoloitzcuintli
+62	Yorkipoo
+65	Yorkipoo
